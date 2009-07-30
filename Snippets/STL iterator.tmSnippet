@@ -9,7 +9,7 @@
 }
 </string>
 	<key>name</key>
-	<string>STL iterator</string>
+	<string>For Loop with STL iterator</string>
 	<key>scope</key>
 	<string>source.c, source.c++</string>
 	<key>tabTrigger</key>

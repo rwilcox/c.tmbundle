@@ -45,6 +45,8 @@
 			<string>5A086BE2-BCF6-11D9-82A9-000D93589AF6</string>
 			<string>FE378349-BD63-4390-9A3B-516F7FF7F413</string>
 			<string>3D221F96-F4CC-432D-9A04-F9F4DF3E0F55</string>
+			<string>3DE220DE-7A29-477F-9116-2551DE05C424</string>
+			<string>C24F64A5-01EA-413D-8EAF-40AF4D81483D</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -55,9 +57,11 @@
 					<string>F060AC09-C289-11D9-8CEF-000D93589AF6</string>
 					<string>D1F5A25E-A70F-11D9-A11A-000A95A89C98</string>
 					<string>78EF7134-0859-4475-89C3-30927865E855</string>
+					<string>B673015A-641B-4453-A6DE-7A86BD8DDA78</string>
 					<string>------------------------------------</string>
 					<string>523B30D4-C28A-11D9-8CEF-000D93589AF6</string>
 					<string>1D14B92E-8819-11D9-8661-000D93589AF6</string>
+					<string>4E4622E5-3523-4B52-8854-9D9DC46471E1</string>
 					<string>CEE5F928-47A2-4648-96F0-99FF5C2A7419</string>
 					<string>DD10B510-1C36-45E0-A378-527401EE55B1</string>
 					<string>08E16CAE-DBD8-4570-B778-9E0E0EFFF80C</string>
@@ -67,14 +71,27 @@
 				<key>name</key>
 				<string>Declarations</string>
 			</dict>
+			<key>6B82E298-6616-46F9-B1BF-323EBF577CA6</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>2277A09E-71E0-404D-93CD-D9901F36A02D</string>
+					<string>025E1936-0C9C-44AF-8B4C-70AD257E61B7</string>
+					<string>D47E65E3-60A4-4A80-AD30-373E4F8ADAEB</string>
+				</array>
+				<key>name</key>
+				<string>C++ Style Casts</string>
+			</dict>
 			<key>95FCF3A0-0EF9-4BAD-9C20-78AA542CE9A4</key>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>8F127891-EE1D-4933-B192-9B33F22A98A3</string>
 					<string>74AF5E38-994C-4641-96F0-EB98A2183F60</string>
 					<string>E8C3B596-9045-11D9-AB38-000D93589AF6</string>
 					<string>BC8B81AB-5F16-11D9-B9C3-000D93589AF6</string>
 					<string>62D59E1C-1DF1-490E-86E9-DFF8A461AD9C</string>
+					<string>6B82E298-6616-46F9-B1BF-323EBF577CA6</string>
 				</array>
 				<key>name</key>
 				<string>Idioms</string>
@@ -115,7 +132,6 @@
 		<string>5E468268-ACAF-11D9-987D-000D93589AF6</string>
 		<string>B673015A-641B-4453-A6DE-7A86BD8DDA78</string>
 		<string>4E4622E5-3523-4B52-8854-9D9DC46471E1</string>
-		<string>0504F844-94E8-4C46-A3CD-0E3516CD6216</string>
 		<string>5A086BE2-BCF6-11D9-82A9-000D93589AF6</string>
 		<string>FE378349-BD63-4390-9A3B-516F7FF7F413</string>
 		<string>62D59E1C-1DF1-490E-86E9-DFF8A461AD9C</string>

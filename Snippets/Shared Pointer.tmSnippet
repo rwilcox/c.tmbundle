@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>namespace${1/.+/ /m}${1:${TM_FILENAME/^((.*?)\..*)?$/(?1:\L$2:my)/}}
-{
-	$0
-}${1/.+/ \/* /m}$1${1/.+/ *\//m}</string>
+	<string>typedef std::tr1::shared_ptr&lt;${2:${1:my_type}_t}&gt; ${3:${2/_t$/_ptr/}};</string>
 	<key>name</key>
-	<string>Namespace</string>
+	<string>Shared Pointer</string>
 	<key>scope</key>
-	<string>source.c++, source.objc++</string>
+	<string>source.c, source.objc, source.c++, source.objc++</string>
 	<key>tabTrigger</key>
-	<string>ns</string>
+	<string>sp</string>
 	<key>uuid</key>
-	<string>CEE5F928-47A2-4648-96F0-99FF5C2A7419</string>
+	<string>986C0149-7802-4385-A237-90074D9D5ACD</string>
 </dict>
 </plist>

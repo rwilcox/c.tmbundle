@@ -21,6 +21,9 @@
 			<string>E8D80809-0CDE-4E57-AC2A-8C22DFF353EE</string>
 			<string>034C3F18-097D-4B2C-8F20-C1CA3E9573E9</string>
 			<string>093DA4F2-D97F-4309-B869-6970C090A539</string>
+			<string>2277A09E-71E0-404D-93CD-D9901F36A02D</string>
+			<string>025E1936-0C9C-44AF-8B4C-70AD257E61B7</string>
+			<string>D47E65E3-60A4-4A80-AD30-373E4F8ADAEB</string>
 		</array>
 		<key>items</key>
 		<array>
@@ -71,17 +74,6 @@
 				<key>name</key>
 				<string>Declarations</string>
 			</dict>
-			<key>6B82E298-6616-46F9-B1BF-323EBF577CA6</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>2277A09E-71E0-404D-93CD-D9901F36A02D</string>
-					<string>025E1936-0C9C-44AF-8B4C-70AD257E61B7</string>
-					<string>D47E65E3-60A4-4A80-AD30-373E4F8ADAEB</string>
-				</array>
-				<key>name</key>
-				<string>C++ Style Casts</string>
-			</dict>
 			<key>95FCF3A0-0EF9-4BAD-9C20-78AA542CE9A4</key>
 			<dict>
 				<key>items</key>
@@ -91,7 +83,6 @@
 					<string>E8C3B596-9045-11D9-AB38-000D93589AF6</string>
 					<string>BC8B81AB-5F16-11D9-B9C3-000D93589AF6</string>
 					<string>62D59E1C-1DF1-490E-86E9-DFF8A461AD9C</string>
-					<string>6B82E298-6616-46F9-B1BF-323EBF577CA6</string>
 					<string>986C0149-7802-4385-A237-90074D9D5ACD</string>
 				</array>
 				<key>name</key>

@@ -22,7 +22,6 @@
 			<string>093DA4F2-D97F-4309-B869-6970C090A539</string>
 			<string>3D221F96-F4CC-432D-9A04-F9F4DF3E0F55</string>
 			<string>ADD104E9-830A-4AC4-AAF4-DB6D3B0B7506</string>
-			<string>8F127891-EE1D-4933-B192-9B33F22A98A3</string>
 		</array>
 		<key>items</key>
 		<array>
@@ -104,6 +103,7 @@
 					<string>62D59E1C-1DF1-490E-86E9-DFF8A461AD9C</string>
 					<string>986C0149-7802-4385-A237-90074D9D5ACD</string>
 					<string>88E13C15-1DB9-4126-AC4B-03441F9F0ACD</string>
+					<string>8F127891-EE1D-4933-B192-9B33F22A98A3</string>
 				</array>
 				<key>name</key>
 				<string>Idioms</string>
